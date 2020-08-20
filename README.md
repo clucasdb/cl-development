@@ -29,10 +29,8 @@ PHP
 ## NODE.JS
 ### Cloud Architectural Design
 ### Vagrantfile
-### DocuSign Envelope Status 
-## Python
-```
-```
+### Envelope Status 
+
 ## Cisco/Docker
 ```
 IoX App Countainers and Results 
